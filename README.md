@@ -16,3 +16,4 @@ Let us know more about waves and strucure later on...but producing one would be 
 - NumPy
 - Matplotlib
 - Google Colab
+<img width="1189" height="790" alt="Waves" src="https://github.com/user-attachments/assets/973a4aa0-583a-4987-b1e2-f34cae6c4c8e" />
